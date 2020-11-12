@@ -1,11 +1,11 @@
 import React from "react";
 
-const Portfolio = () => {
+const Contact = () => {
   return (
     <div className="container">
-      <h1>hey portfolio page</h1>
+      <h1>contact page</h1>
     </div>
   );
 };
 
-export default Portfolio;
+export default Contact;
