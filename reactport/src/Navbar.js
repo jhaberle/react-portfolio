@@ -6,7 +6,7 @@ const Navbar = () => {
       <div className="row">
         <div className="col-sm-12">
           <nav className="navbar navbar-expand-lg navbar-light bg-dark">
-            <a className="navbar-brand" href="index.html">
+            <a className="navbar-brand" href="/#/index">
               Jake Haberle
             </a>
             <button
@@ -22,13 +22,13 @@ const Navbar = () => {
             </button>
             <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
               <div className="navbar-nav">
-                <a className="nav-item nav-link active" href="index.html">
+                <a className="nav-item nav-link active" href="/#/index">
                   <span className="sr-only">(current)</span>
                 </a>
-                <a className="nav-item nav-link" href="portfolio.html">
+                <a className="nav-item nav-link" href="/#/portfolio">
                   Portfolio
                 </a>
-                <a className="nav-item nav-link" href="contact.html">
+                <a className="nav-item nav-link" href="/#/contact">
                   Contact
                 </a>
                 <a
