@@ -5,8 +5,10 @@
 .navbar-light .navbar-brand {
   color: white;
   float: left;
-  margin-right: 75%;
+  margin-right: 70%;
   margin-left: 5px;
+  font-size: medium;
+  width: 90%;
 }
 
 .navbar-light .navbar-nav .active > .nav-link,
@@ -64,7 +66,7 @@ footer {
 }
 
 p {
-  font-size: 22px;
+  font-size: 19px;
   /* margin-right: 10px; */
 }
 
